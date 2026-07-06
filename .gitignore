@@ -1,0 +1,15 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+.env
+
+# Local data and generated outputs
+data/raw/
+outputs/*.csv
+
+# Local archives
+*.zip
+
+# Local Codex / agent metadata
+.agents/
+.codex/
